@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/dmitry/CLionProjects/untitled1 Select CMakeLists.txt
